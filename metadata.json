@@ -1,0 +1,8 @@
+{
+  "name": "MEI NetAcad AI Agent",
+  "description": "Cyberpunk personal AI agent for Cisco Networking Academy coursework, video lesson assistance, transcript summaries, Packet Tracer lab solver, and certificate tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
